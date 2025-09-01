@@ -51,43 +51,25 @@ Descreva aqui o texto do exercício 2 conforme está no PDF.
 ![Fluxograma Exercício 2](./exercicio-2/fluxograma_2.png)
 
 **Código:**  
-```python
-# Exemplo de código para o exercício 2
-print("Solução do exercício 2")
+```portugol
+// filepath: ./exercicio-2/exercicio_2.por
+// ...código do exercício 2...
 ```
 
 ---
 
 <!-- Repita a estrutura para os demais exercícios -->
 
-**Proposta:**  
-Descreva aqui o texto do exercício 1 conforme está no PDF.
-
-**Fluxograma:**  
-![Fluxograma Exercício 1](./imagens/fluxograma_exercicio1.png)
-
-**Código:**  
-```python
-# Exemplo de código para o exercício 1
-print("Solução do exercício 1")
-```
-
----
-
-## Exercício 2
+## Exercício 3
 
 **Proposta:**  
-Descreva aqui o texto do exercício 2 conforme está no PDF.
+Descreva aqui o texto do exercício 3 conforme está no PDF.
 
 **Fluxograma:**  
-![Fluxograma Exercício 2](./imagens/fluxograma_exercicio2.png)
+![Fluxograma Exercício 3](./imagens/fluxograma_exercicio3.png)
 
 **Código:**  
-```python
-# Exemplo de código para o exercício 2
-print("Solução do exercício 2")
+```portugol
+// filepath: ./exercicio-3/exercicio_3.por
+// ...código do exercício 3...
 ```
-
----
-
-<!-- Repita a estrutura para os demais exercícios -->
