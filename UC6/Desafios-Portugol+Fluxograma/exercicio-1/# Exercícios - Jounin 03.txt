@@ -1,0 +1,78 @@
+# Exercícios - Jounin 03
+
+Este repositório contém os exercícios do arquivo **03 - Jounin03.pdf**.
+
+---
+
+## Exercício 1
+# Exercícios - Jounin 03
+
+Este repositório contém os exercícios do arquivo **03 - Jounin03.pdf**.
+
+---
+
+## Exercício 1
+
+**Proposta:**  
+Descreva aqui o texto do exercício 1 conforme está no PDF.
+
+**Fluxograma:**  
+![Fluxograma Exercício 1](./imagens/fluxograma_exercicio1.png)
+
+**Código:**  
+```python
+# Exemplo de código para o exercício 1
+print("Solução do exercício 1")
+```
+
+---
+
+## Exercício 2
+
+**Proposta:**  
+Descreva aqui o texto do exercício 2 conforme está no PDF.
+
+**Fluxograma:**  
+![Fluxograma Exercício 2](./imagens/fluxograma_exercicio2.png)
+
+**Código:**  
+```python
+# Exemplo de código para o exercício 2
+print("Solução do exercício 2")
+```
+
+---
+
+<!-- Repita a estrutura para os demais exercícios -->
+
+**Proposta:**  
+Descreva aqui o texto do exercício 1 conforme está no PDF.
+
+**Fluxograma:**  
+![Fluxograma Exercício 1](./imagens/fluxograma_exercicio1.png)
+
+**Código:**  
+```python
+# Exemplo de código para o exercício 1
+print("Solução do exercício 1")
+```
+
+---
+
+## Exercício 2
+
+**Proposta:**  
+Descreva aqui o texto do exercício 2 conforme está no PDF.
+
+**Fluxograma:**  
+![Fluxograma Exercício 2](./imagens/fluxograma_exercicio2.png)
+
+**Código:**  
+```python
+# Exemplo de código para o exercício 2
+print("Solução do exercício 2")
+```
+
+---
+
+<!-- Repita a estrutura para os demais exercícios -->
