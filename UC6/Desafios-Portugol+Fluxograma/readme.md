@@ -18,7 +18,7 @@ compra e o valor da comissão do vendedor:
     ● Quantidade vendida 
 
 **Fluxograma:**  
-![Fluxograma Exercício 1](./exercicio-1/fluxograma_1.png)
+![Fluxograma Exercício 1](./exercicio-1/Fluxograma_1.png)
 
 **Código:**  
 ```portugol
