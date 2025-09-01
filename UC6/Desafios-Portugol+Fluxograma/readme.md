@@ -45,14 +45,13 @@ programa {
 ## Exercício 2
 
 **Proposta:**  
-Elaborar um programa que leia dois valores numéricos reais desconhecidos representados 
-pelas variáveis A e B. Calcular e apresentar os resultados das quatro operações aritméticas 
-básicas. 
+Construa um algoritmo que leia o nome de um aluno e as notas das três provas que ele obteve no semestre. No final, informar o nome do aluno e a sua média (aritmética).
 
 **Fluxograma:**  
 ![Fluxograma Exercício 2](./exercicio-2/Fluxograma_2.png)
 
 **Código:**  
+```portugol
 programa {
   funcao inicio() {
     inteiro n1 = 0, n2 = 0, soma = 0, subtracao = 0, divisao = 0, multiplicacao = 0
@@ -74,18 +73,112 @@ programa {
 
 ---
 
-<!-- Repita a estrutura para os demais exercícios -->
-
 ## Exercício 3
 
 **Proposta:**  
-Descreva aqui o texto do exercício 3 conforme está no PDF.
+3. Construa um algoritmo que leia o nome de um produto, a quantidade comprada e o valor unitário. Calcule e mostre o valor total da compra.
 
 **Fluxograma:**  
-![Fluxograma Exercício 3](./imagens/fluxograma_exercicio3.png)
+![Fluxograma Exercício 3](./exercicio-3/Fluxograma_3.png)
 
 **Código:**  
 ```portugol
 // filepath: ./exercicio-3/exercicio_3.por
 // ...código do exercício 3...
+```
+
+---
+
+## Exercício 4
+
+**Proposta:**  
+4. Construa um algoritmo que leia o nome de um funcionário, o número de horas trabalhadas, o valor que recebe por hora e o número de filhos menores de 14 anos. Calcule e mostre o salário bruto e o salário família (R$ 50,00 por filho menor de 14 anos).
+
+**Fluxograma:**  
+![Fluxograma Exercício 4](./exercicio-4/Fluxograma_4.png)
+
+**Código:**  
+```portugol
+// filepath: ./exercicio-4/exercicio_4.por
+// ...código do exercício 4...
+```
+
+---
+
+## Exercício 5
+
+**Proposta:**  
+5. Construa um algoritmo que leia o nome de um vendedor, o total de vendas efetuadas por ele no mês e o percentual de comissão. Calcule e mostre o valor da comissão.
+
+**Fluxograma:**  
+![Fluxograma Exercício 5](./exercicio-5/Fluxograma_5.png)
+
+**Código:**  
+```portugol
+// filepath: ./exercicio-5/exercicio_5.por
+// ...código do exercício 5...
+```
+
+---
+
+## Exercício 6
+
+**Proposta:**  
+6. Construa um algoritmo que leia o nome de um aluno e as notas das duas provas que ele obteve no semestre. No final, informar o nome do aluno e a sua média (aritmética).
+
+**Fluxograma:**  
+![Fluxograma Exercício 6](./exercicio-6/Fluxograma_6.png)
+
+**Código:**  
+```portugol
+// filepath: ./exercicio-6/exercicio_6.por
+// ...código do exercício 6...
+```
+
+---
+
+## Exercício 7
+
+**Proposta:**  
+7. Construa um algoritmo que leia o nome de um produto, a quantidade comprada e o valor unitário. Calcule e mostre o valor total da compra, considerando um desconto de 10%.
+
+**Fluxograma:**  
+![Fluxograma Exercício 7](./exercicio-7/Fluxograma_7.png)
+
+**Código:**  
+```portugol
+// filepath: ./exercicio-7/exercicio_7.por
+// ...código do exercício 7...
+```
+
+---
+
+## Exercício 8
+
+**Proposta:**  
+8. Construa um algoritmo que leia o nome de um funcionário, o número de horas trabalhadas e o valor que recebe por hora. Calcule e mostre o salário bruto.
+
+**Fluxograma:**  
+![Fluxograma Exercício 8](./exercicio-8/Fluxograma_8.png)
+
+**Código:**  
+```portugol
+// filepath: ./exercicio-8/exercicio_8.por
+// ...código do exercício 8...
+```
+
+---
+
+## Exercício 9
+
+**Proposta:**  
+9. Construa um algoritmo que leia o nome de um aluno e as notas das quatro provas que ele obteve no semestre. No final, informar o nome do aluno e a sua média (aritmética).
+
+**Fluxograma:**  
+![Fluxograma Exercício 9](./exercicio-9/Fluxograma_9.png)
+
+**Código:**  
+```portugol
+// filepath: ./exercicio-9/exercicio_9.por
+// ...código do exercício 9...
 ```
