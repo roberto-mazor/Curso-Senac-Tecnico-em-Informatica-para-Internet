@@ -168,11 +168,12 @@ Desenvolva um programa que leia o valor de uma determinada compra e o código da
 de pagamento. Com base neste código, o programa deverá calcular e imprimir o valor a pagar, 
 a forma de pagamento e o valor de cada parcela, se for o caso. 
 
-   Código	Descrição
-1	À vista (dinheiro ou PIX), com 8% de desconto.
-2	À vista (cartão de crédito), com 4% de desconto.
-3	Em 2x, preço normal (sem juros).
-4	Em 4x, com acréscimo de 8%.
+    Código            Classificação 
+
+    1                 À vista, com 8% de desconto 
+    2                 À vista no cartão, 4% de desconto 
+    3                 Em 2x, preço normal sem juros 
+    4                 Em 4x, preço acrescido de 8% 
 
 Qualquer outro código      Opção inválida
 
